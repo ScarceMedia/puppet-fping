@@ -10,3 +10,4 @@ class fping::params {
       fail("${::osfamily} is not supported")
     }
   }
+}
